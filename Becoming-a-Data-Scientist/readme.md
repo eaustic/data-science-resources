@@ -1,8 +1,10 @@
 ## General web resources
 ### 1. [Data Science Central](http://www.datasciencecentral.com/)
 
+
 ## Infographics
 ### 1. [Data Science Infographics on Pinterest](https://www.pinterest.com/elizabethaustic/data-scientist-infographics/)
+
 
 ## Books featuring interviews with data scientist
 ### 1. [Data Scientists at Work](https://www.amazon.com/Data-Scientists-Work-Sebastian-Gutierrez/dp/1430265981) 
