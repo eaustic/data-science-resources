@@ -1,6 +1,6 @@
 ## R: Free resources for learning R
 1. ### [R for statistical programming and data visualization](https://github.com/CSCAR/Resources/wiki/R)
-2. ### [Swirl: learn R programming interatively](http://swirlstats.com/)
+2. ### [Swirl: learn R programming interactively](http://swirlstats.com/)
 3. ### [R repository of code examples](http://www.uni-kiel.de/psychologie/rexrepos/) 
 
 ## R: Video Tutorials
