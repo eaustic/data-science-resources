@@ -3,6 +3,8 @@
 - [Deep Learning for Natural Language Processing](https://github.com/shashankg7/Deep-Learning-for-NLP-Resources)
 
 ### ML: Video Tutorials
+- [FREE: 2016 statistical machine learning course with video-lectures by Larry Wasserman from Carnegie Mellon University](http://www.stat.cmu.edu/~larry/=sml/)
+- [FREE: Additional free video courses and tutorials on machine learning](https://www.analyticsvidhya.com/blog/2016/12/30-top-videos-tutorials-courses-on-machine-learning-artificial-intelligence-from-2016/)
 - [Coursera Machine Learning](https://www.coursera.org/learn/machine-learning) (you can watch the videos for free)
 - [Lynda Machine Learning](https://www.lynda.com/Data-Science-tutorials/Machine-learning/475941/517476-4.html) (available by subscription unless you are a student and get Lynda.com for free)
 
