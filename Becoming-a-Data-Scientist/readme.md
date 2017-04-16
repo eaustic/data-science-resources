@@ -7,6 +7,8 @@
 
 ### Key web sites for networking with other data scientists
 - [Data Science Central](http://www.datasciencecentral.com/)
+- Search Meetup.com for local meetup groups focusing on data science and related topics like Python programming
+- Search Google for your regional "big data" hub - e.g., [The Midwest Big Data Hub](http://midwestbigdatahub.org/), as well as working groups based on themes within your hub, e.g., [Midwest Working Groups](http://midwestbigdatahub.org/about/working-groups/)
 
 ### Data science infographics
 - [My Data Science Infographics Pinterest Site](https://www.pinterest.com/elizabethaustic/data-scientist-infographics/)
