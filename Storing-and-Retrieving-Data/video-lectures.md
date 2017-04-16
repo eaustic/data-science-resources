@@ -1,2 +1,1 @@
-Video lectures from UC Berkeley course "Storing and Retrieving Data":
-http://kevincrook.com/ucb/ucb.html
+## [Video lectures from UC Berkeley course "Storing and Retrieving Data"](http://kevincrook.com/ucb/ucb.html)
