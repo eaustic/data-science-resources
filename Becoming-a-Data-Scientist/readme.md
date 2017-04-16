@@ -13,6 +13,6 @@
 - [Intermediate Data Science Plan for 2017](http://pin.it/0kGbh3K)
 - [Machine learning tools by industry](http://pin.it/_XPhR2g) 
 
-### What is data science, and how is it different than engineering, statistics, etc.?
+### What is data science?
 - [24 articles about what data science is](http://www.datasciencecentral.com/profiles/blogs/20-articles-about-core-data-science)
 - [Differences between machine learning, deep learning, data science, artificial intelligence, etc.](http://www.datasciencecentral.com/profiles/blogs/difference-between-machine-learning-data-science-ai-deep-learning)
