@@ -1,3 +1,6 @@
 # Data Science Resources
-- This is a new (and growing) repository of select resources for people who are new to data science.
-- Resources that seem particularly useful, high-quality, insightful, or thought-provoking are organized by topic within sub-folders.
+
+- This is a growing repository of _select_ resources for people who are new to data science.
+- Resources are organized by topic within the folders above.
+
+_(Created on April 15, 2017)_
