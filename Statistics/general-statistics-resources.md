@@ -1,2 +1,2 @@
-1. ### [General statistics resources from CSCAR](https://github.com/CSCAR/Resources/wiki/Statistics)
-2. ### [Docs on various statistical procedures by Michael Clark](https://github.com/m-clark/docs)
+1. ### [General statistics resources](https://github.com/CSCAR/Resources/wiki/Statistics)
+2. ### [Various statistical procedures](https://github.com/m-clark/docs)
