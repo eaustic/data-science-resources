@@ -7,4 +7,4 @@
 2. [Lynda Machine Learning](https://www.lynda.com/Data-Science-tutorials/Machine-learning/475941/517476-4.html) (available by subscription unless you are a student and get Lynda.com for free)
 
 ### ML: Podcasts
-- ### [10 Best AI Data Science and ML Podcasts](https://medium.com/startup-grind/the-10-best-ai-data-science-and-machine-learning-podcasts-d7495cfb127c)
+- [10 Best AI Data Science and ML Podcasts](https://medium.com/startup-grind/the-10-best-ai-data-science-and-machine-learning-podcasts-d7495cfb127c)
