@@ -26,4 +26,4 @@
 - [24 articles about what data science is](http://www.datasciencecentral.com/profiles/blogs/20-articles-about-core-data-science)
 - [Differences between machine learning, deep learning, data science, artificial intelligence, etc.](http://www.datasciencecentral.com/profiles/blogs/difference-between-machine-learning-data-science-ai-deep-learning)
 
-### [Careers in data science as well as continuing education opportunities](http://midas.umich.edu/careers/)
+### ★[Careers in data science as well as continuing education opportunities](http://midas.umich.edu/careers/)
