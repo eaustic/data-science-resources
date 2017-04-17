@@ -12,6 +12,11 @@
 - Search [Meetup.com](meetup.com) for local meetup groups focusing on data science and related topics like Python programming
 - Search Google for your regional "big data" hub - e.g., [The Midwest Big Data Hub](http://midwestbigdatahub.org/), as well as working groups based on themes within your hub, e.g., [Midwest Working Groups](http://midwestbigdatahub.org/about/working-groups/)
 
+### Data science conferences and symposiums
+- Search for conferences and symposiums representing a cross-section between data science and the topics you are most passionate about, such as [Open Science](http://openhardware.science/). Also, keep in mind that local symposiums can provide a great place to network for jobs even if they are small (and are usually much less expensive to attend).
+- [7 Conferences Data Scientists Shouldn't Miss](https://blog.stitchdata.com/the-7-conferences-data-scientists-shouldn-t-miss-90ce71d4294d)
+- [Neural Information Processing - NIPS](https://nips.cc/)
+
 ### Data science infographics
 - [My Data Science Infographics Pinterest Site](https://www.pinterest.com/elizabethaustic/data-scientist-infographics/)
 - [Intermediate Data Science Plan for 2017](http://pin.it/0kGbh3K)
