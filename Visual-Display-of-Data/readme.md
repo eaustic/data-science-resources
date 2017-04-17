@@ -1,5 +1,6 @@
-## Tools to help you visually display data
-1. ### [ggplot](http://ggplot2.org/)
-2. ### [plotly](http://help.plot.ly/)
-3. ### [htmlwidgets for R](http://www.htmlwidgets.org/)
-4. ### [tableau](https://www.tableau.com)
+### Tools to help you visually display data
+- [ggplot](http://ggplot2.org/)
+- [plotly](http://help.plot.ly/)
+- [htmlwidgets for R](http://www.htmlwidgets.org/)
+- [tableau](https://www.tableau.com)(_commercial program_)
+- [Inforgraphic on Data Visualization Tools](https://www.pinterest.com/pin/562668547176901109/)
