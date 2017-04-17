@@ -30,12 +30,12 @@
 
 ---
 
-### Skill Sets Needed
-Experimental design  /  Working with machine learning algorithms  / Feature engineering  /  Prediction vs. explanation  /  Network analysis  /  Collaborative filtering 
+### ML Skill Sets Needed
+Experimental design  /  Working with machine learning algorithms  / Feature engineering  /  Prediction vs. explanation  /  Network analysis  /  Collaborative filtering / Code up machine learning algorithms on single machines and on clusters of machines / Amazon AWS / Working on problems with terabytes of data / Machine learning pipelines for petabyte-scale data / Algorithmic design / Parallel computing
 
 ---
 
-### Potential Tools Needed
+### Potential Tools Needed for ML
 Python  /  Python libraries for linear algebra, plotting, machine learning: numpy, matplotlib, sk-learn  /  Github for submitting project code
 
 
