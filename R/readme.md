@@ -21,15 +21,6 @@
 
 - [R for statistical programming and data visualization](https://github.com/CSCAR/Resources/wiki/R)
 - An Introduction to Statistical Learning [Book pdf](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf) ^also a Machine Learning resource
-
----
-
-#### Data Science with R
-
- * Introduction to Data Science [Syracuse University / ebook](http://jsresearch.net/index.html)
- * Learn R & Become a Data Analyst [Tutorial](https://www.datacamp.com/)
- * Doing Data Science: Straight Talk from the Frontline [O'Reilly / Book ```$25```](http://amzn.to/1vAIscK)
- * Practical Data Science with R [Manning Publications / Book ```$49.99```](http://www.manning.com/zumel/)
  
 ---
 
