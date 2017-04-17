@@ -8,8 +8,10 @@
 
 ---
 
-Skills sets needed to visually display data
+#### Skills sets needed to visually display data
+
 Exploratory data analysis  /  Effective written communication  /  Effective visual presentation of data  /  Design for human perception
 
-Potential tools needed to visually display data
+#### Potential tools needed to visually display data
+
 [Tableau](https://www.tableau.com/)  /  Javascript  /  D3  /  Adobe Illustrator  /  R/ggplot2  /  [Highcharts](http://www.highcharts.com/)  /  Visit
