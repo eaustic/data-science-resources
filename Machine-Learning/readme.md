@@ -14,3 +14,10 @@
 ### ML: Infographics on Pinterest
 - [Machine learning tools by industry](http://pin.it/_XPhR2g) 
 - [The world of machine learning algorithms - a summary](http://pin.it/hAdOxl7)
+
+### Skill Sets Needed
+Experimental design  /  Working with machine learning algorithms  / Feature engineering  /  Prediction vs. explanation  /  Network analysis  /  Collaborative filtering 
+
+### Potential Tools Needed
+Python  /  Python libraries for linear algebra, plotting, machine learning: numpy, matplotlib, sk-learn  /  Github for submitting project code
+
