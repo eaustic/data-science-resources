@@ -23,6 +23,10 @@
 
 ---
 
+### ★ [Data sets to practice machine learning with](https://github.com/datasciencemasters/go/blob/master/datasets.md)
+
+---
+
 ### Skill Sets Needed
 Experimental design  /  Working with machine learning algorithms  / Feature engineering  /  Prediction vs. explanation  /  Network analysis  /  Collaborative filtering 
 
@@ -31,7 +35,4 @@ Experimental design  /  Working with machine learning algorithms  / Feature e
 ### Potential Tools Needed
 Python  /  Python libraries for linear algebra, plotting, machine learning: numpy, matplotlib, sk-learn  /  Github for submitting project code
 
----
-
-### ★ [Data sets to practice machine learning with](https://github.com/datasciencemasters/go/blob/master/datasets.md)
 
