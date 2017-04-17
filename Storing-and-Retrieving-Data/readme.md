@@ -7,3 +7,9 @@
 ### [Useful datasets for learning about storing and retrieving data](https://github.com/UC-Berkeley-I-School/w205-spring-17-labs-exercises/blob/master/useful-datasets.md)
 
 ### [Interesting papers about storing and retrieving data](https://github.com/jarikoi/interesting-papers)
+
+## Tools you may need 
+Python  /  Relational databases  /  Hadoop  /  Map reduce  /  Spark  /  Cloud Computing (AWS)
+
+## Skill sets you may need
+Analytics Solution Architectures  /  Data at Scale Concerns and Tradeoffs  /  Distributed Data Processing  /  Relational Databases  /  Graph Databases  /  Streaming Data Applications  /  Cube Technology
