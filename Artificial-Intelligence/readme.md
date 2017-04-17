@@ -1,4 +1,4 @@
-_Note: Machine Learning is a subset of Artificial Intelligence_
+_Note: Machine Learning, Deep Learning, and Natural Language Processing are subsets of Artificial Intelligence_
 
 ### Artifical Intelligence: Platforms / Systems
 - [Google DeepMind](https://deepmind.com/) 
