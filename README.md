@@ -1,5 +1,5 @@
 # Data Science Resources
-## This is a repository of select resources for those new to data science.
+- This is a repository of select resources for those new to data science.
 
 # How resources are organized
 - Resources are organized by topic within the sub-folders above. 
