@@ -5,9 +5,10 @@
 
 ---
 
-### Books (available for purchase) containing interviews with data scientists
-- [Data Scientists at Work](https://www.amazon.com/Data-Scientists-Work-Sebastian-Gutierrez/dp/1430265981) 
-- [The Data Science Handbook](https://www.amazon.com/Data-Science-Handbook-Insights-Scientists/dp/0692434879/ref=sr_1_2?s=books&ie=UTF8&qid=1492321697&sr=1-2&keywords=The+data+science+handbook)
+### Interviews with data scientists
+- [Metamarket Blog: Up-to-date interviews with data scientists](https://metamarkets.com/category/data-science/)
+- [epub: Data Scientists at Work](https://www.amazon.com/Data-Scientists-Work-Sebastian-Gutierrez/dp/1430265981) 
+- [epub: The Data Science Handbook](https://www.amazon.com/Data-Science-Handbook-Insights-Scientists/dp/0692434879/ref=sr_1_2?s=books&ie=UTF8&qid=1492321697&sr=1-2&keywords=The+data+science+handbook)
 
 ---
 
