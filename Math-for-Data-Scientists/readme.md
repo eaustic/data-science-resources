@@ -7,6 +7,3 @@
 
 ## Math Skill Sets Needed
 Calculus  /  Linear Algebra  /  Matrix Algebra
-
-## Core Statistics Skills Needed
-Confidence Intervals  /  Linear Regression  /  T-Tests  /  Binomial Random Variables  /  Exponential Random Variables  /  Probability
