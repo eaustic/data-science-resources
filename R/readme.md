@@ -1,5 +1,5 @@
 
-### R
+#### R
 
 - [Swirl: learn R programming interactively](http://swirlstats.com/)
 - [R repository of code examples](http://www.uni-kiel.de/psychologie/rexrepos/) 
@@ -77,7 +77,7 @@
  
  ---
 
-### R Video Tutorials
+#### R Video Tutorials
 
 - [Learning R Youtube Channel](https://www.youtube.com/user/TheLearnR/featured)
 - [Video tutorial on R from Lynda.com](https://www.lynda.com/R-tutorials/R-Statistics-Essential-Training/142447-2.html).
