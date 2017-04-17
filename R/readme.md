@@ -1,9 +1,9 @@
-## R: Free resources for learning R
-1. ### [R for statistical programming and data visualization](https://github.com/CSCAR/Resources/wiki/R)
-2. ### [Swirl: learn R programming interactively](http://swirlstats.com/)
-3. ### [R repository of code examples](http://www.uni-kiel.de/psychologie/rexrepos/) 
+### R: Free resources for learning R
+- [R for statistical programming and data visualization](https://github.com/CSCAR/Resources/wiki/R)
+- [Swirl: learn R programming interactively](http://swirlstats.com/)
+- [R repository of code examples](http://www.uni-kiel.de/psychologie/rexrepos/) 
 
-## R: Video Tutorials
-1. ### [Learning R Youtube Channel](https://www.youtube.com/user/TheLearnR/featured)
-2. ### [One of a few video tutorials on R available by subscription via Lynda.com](https://www.lynda.com/R-tutorials/R-Statistics-Essential-Training/142447-2.html)
-_If you are student, faculty, or staff at a college or University, check to see if you get free access to Lynda.com_
+### R: Video Tutorials
+- [Learning R Youtube Channel](https://www.youtube.com/user/TheLearnR/featured)
+- [Video tutorial on R from Lynda.com](https://www.lynda.com/R-tutorials/R-Statistics-Essential-Training/142447-2.html).
+_Note: Lynda costs $20 - $35 a month for a subscription but many Colleges and Universities offer Lynda free to students, staff, and faculty_
