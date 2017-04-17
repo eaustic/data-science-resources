@@ -1,2 +1,2 @@
-### Natural Language Processing (NLP): Excellent Github Respositories
+## Natural Language Processing (NLP): Learning Resources
 - [Deep Learning for Natural Language Processing](https://github.com/shashankg7/Deep-Learning-for-NLP-Resources)
