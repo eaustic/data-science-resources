@@ -1,4 +1,4 @@
-#### Tools to help you visually display data
+### Tools to help you visually display data
 
 - [ggplot](http://ggplot2.org/)
 - [plotly](http://help.plot.ly/)
@@ -8,10 +8,10 @@
 
 ---
 
-#### Skills sets needed to visually display data
+### Skills sets needed to visually display data
 
 Exploratory data analysis  /  Effective written communication  /  Effective visual presentation of data  /  Design for human perception
 
-#### Potential tools needed to visually display data
+### Potential tools needed to visually display data
 
-[Tableau](https://www.tableau.com/)  /  Javascript  /  D3  /  Adobe Illustrator  /  R/ggplot2  /  [Highcharts](http://www.highcharts.com/)  /  Visit
+[Tableau](https://www.tableau.com/)  /  Javascript  /  [D3](https://www.dashingd3js.com/table-of-contents)  /  Adobe Illustrator  /  R/ggplot2  /  [Highcharts](http://www.highcharts.com/)  /  Visit
