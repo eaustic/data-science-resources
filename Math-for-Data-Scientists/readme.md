@@ -1,4 +1,4 @@
-### Math Tutorials
+## Math Tutorials
 - [What are some good resources for learning about numerical analysis? / Quora ](http://www.quora.com/What-are-some-good-resources-for-learning-about-numerical-analysis)
 - [Khan Academy](https://www.khanacademy.org/) provides free, interactive tutorials on math starting where you are at, and advancing as you are ready to advance. Some may be review. Consider learning or reviewing [math for statistics and probability](https://www.khanacademy.org/math/statistics-probability), [Pre-Calculus](https://www.khanacademy.org/math/precalculus), [Calculus](https://www.khanacademy.org/math/calculus-home), and [Linear Algebra](https://www.khanacademy.org/math/linear-algebra). 
 - [Differential Equations in Data Science with Python Tutorial](http://nbviewer.jupyter.org/github/URXtech/techblog/blob/master/continuousTimeMarkovChain/markovChain.ipynb)
