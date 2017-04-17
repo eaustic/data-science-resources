@@ -6,7 +6,7 @@
 - [Better Explained](https://betterexplained.com/) provides [a number of excellent guides to learning about math topics](https://betterexplained.com/archives/) including the [Calculus Learning Guide](https://betterexplained.com/guides/calculus/) and [Understanding Bayes Theorem With Ratios](https://betterexplained.com/articles/understanding-bayes-theorem-with-ratios/). They also have articles such as: [A Programmer’s Intuition for Matrix Multiplication](https://betterexplained.com/articles/matrix-multiplication/) and
 
 ## Math Skill Sets Needed
-### Calculus / Linear Algebra
+### Calculus  /  Linear Algebra  /  Matrix Algebra
 
 ## Core Statistics Skills Needed
-### Confidence Intervals / Linear Regression / T-Tests / Binomial Random Variables / Exponential Random Variables / Probability
+### Confidence Intervals  /  Linear Regression  /  T-Tests  /  Binomial Random Variables  /  Exponential Random Variables  /  Probability
