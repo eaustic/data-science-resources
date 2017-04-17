@@ -1,4 +1,6 @@
-_Note: Machine Learning, Deep Learning, and Natural Language Processing are subsets of Artificial Intelligence_
+### ★ [Differences between machine learning, deep learning, data science, artificial intelligence, etc.](http://www.datasciencecentral.com/profiles/blogs/difference-between-machine-learning-data-science-ai-deep-learning)
+
+---
 
 ### Artifical Intelligence: Platforms / Systems
 - [Google DeepMind](https://deepmind.com/) 
