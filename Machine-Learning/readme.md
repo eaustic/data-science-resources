@@ -35,7 +35,7 @@
 
 ---
 
-### Machine Learning Packages
+### Machine Learning: Packages
 
 * [mlpy](http://mlpy.sourceforge.net) Machine Learning Python
 * Machine Learning Toolkit [MILK](http://packages.python.org/milk/)
@@ -50,7 +50,7 @@
 
 ---
 
-### Deep Learning 
+### Machine Learning: Deep Learning 
 
 [Wikipedia Definition](http://en.wikipedia.org/wiki/Deep_learning)
 
