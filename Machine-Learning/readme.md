@@ -50,7 +50,7 @@
 
 ---
 
-#### Deep Learning 
+### Deep Learning 
 
 [Wikipedia Definition](http://en.wikipedia.org/wiki/Deep_learning)
 
