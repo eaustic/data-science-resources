@@ -8,13 +8,15 @@ Exploratory data analysis  /  Effective written communication  /  Effective visu
 
 [ggplot](http://ggplot2.org/) / [plotly](http://help.plot.ly/) / [htmlwidgets for R](http://www.htmlwidgets.org/) / [Tableau](https://www.tableau.com/)  /  Javascript  /  [D3](https://www.dashingd3js.com/table-of-contents)  /  Adobe Illustrator  /  R/ggplot2  /  [Highcharts](http://www.highcharts.com/)  /  Visit / 
 
+### Python visualization packages
+
+   * [matplotlib](http://bit.ly/matplotlib-docs) - well-integrated with analysis and data manipulation packages like numpy and pandas
+   * [Seaborn](http://bit.ly/seaborn-python) - a high-level statistical visualization package built on top of matplotlib
+   
 ---
 
 #### [Inforgraphic on Data Visualization Tools](http://pin.it/Dc859EU)
 
 ---
 
-#### Python Visualization Packages
 
-   * [matplotlib](http://bit.ly/matplotlib-docs) - well-integrated with analysis and data manipulation packages like numpy and pandas
-   * [Seaborn](http://bit.ly/seaborn-python) - a high-level statistical visualization package built on top of matplotlib
