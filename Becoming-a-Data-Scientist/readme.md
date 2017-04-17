@@ -1,11 +1,11 @@
-### Books about becoming data scientists (interviews with data scientists)
-- [Data Scientists at Work](https://www.amazon.com/Data-Scientists-Work-Sebastian-Gutierrez/dp/1430265981) 
-- [The Data Science Handbook](https://www.amazon.com/Data-Science-Handbook-Insights-Scientists/dp/0692434879/ref=sr_1_2?s=books&ie=UTF8&qid=1492321697&sr=1-2&keywords=The+data+science+handbook)
-
 ### Videos about becoming a data scientist
 - [The life of a data scientist / Josh Wills](https://www.youtube.com/watch?v=h9vQIPfe2uU)
 - [Dirty secrets of data science / Hillary Mason](https://www.youtube.com/watch?v=fZuDwiM1XBQ)
 - [How to become a data scientist in 6 months / Tetiana Ivanova](https://www.youtube.com/watch?v=rIofV14c0tc)
+
+### Books about becoming data scientists (interviews with data scientists)
+- [Data Scientists at Work](https://www.amazon.com/Data-Scientists-Work-Sebastian-Gutierrez/dp/1430265981) 
+- [The Data Science Handbook](https://www.amazon.com/Data-Science-Handbook-Insights-Scientists/dp/0692434879/ref=sr_1_2?s=books&ie=UTF8&qid=1492321697&sr=1-2&keywords=The+data+science+handbook)
 
 ### Key web sites for networking with other data scientists
 - [Data Science Central](http://www.datasciencecentral.com/)
