@@ -13,4 +13,4 @@
 
 ### ML: Infographics on Pinterest
 - [Machine learning tools by industry](http://pin.it/_XPhR2g) 
-- [The world of machine learning algorithms - a summar](http://pin.it/hAdOxl7)
+- [The world of machine learning algorithms - a summary](http://pin.it/hAdOxl7)
