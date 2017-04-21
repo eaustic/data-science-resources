@@ -8,6 +8,7 @@
 - [Learn R & Become a Data Analyst - Tutorial](https://www.datacamp.com/)
 - [The R Project for Statistical Computing / Software](http://www.r-project.org/)
 - [Learn Data Science with R / Tutorials](https://www.datacamp.com/courses)
+- [Trouble-shooting with R and R Packages on Stackoverflow](http://stackoverflow.com/questions/tagged/r) 
 
 ---
 
@@ -41,6 +42,7 @@
 ---
 
 #### Machine Learning with R
+
  * Guide to Getting Started in Machine Learning [Tutorial](http://abeautifulwww.com/2009/10/11/guide-to-getting-started-in-machine-learning/)
  * Machine Learning in R [Tutorial](http://blog.revolutionanalytics.com/2009/09/machine-learning-in-r-in-a-nutshell.html)
 
