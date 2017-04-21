@@ -6,7 +6,9 @@
 - [Probability and Statistics Free Ebook](http://wiki.socr.umich.edu/index.php/EBook)
 - [Statistics Online Computational Resource](http://www.socr.umich.edu/) - includes free instructional videos and data analysis tools
 - [Free Web-Based Statistical Tools](http://www.socr.ucla.edu/Applets.dir/OnlineResources.html)
-- How to Choose the Right Statistical Test? [Here is the answer in tables](http://www.socr.ucla.edu/htmls/SOCR_ChoiceOfStatisticalTest.html), [here is a more descriptive answer](http://www.socr.ucla.edu/Applets.dir/ChoiceOfTest.html), and [here is the syntax you need](http://stats.idre.ucla.edu/spss/whatstat/what-statistical-analysis-should-i-usestatistical-analyses-using-spss/) to perform most of these basic statistical tests in SPSS
+- How to Choose the Right Statistical Test? [Here is the answer in tables](http://www.socr.ucla.edu/htmls/SOCR_ChoiceOfStatisticalTest.html), [here is a more descriptive answer](http://www.socr.ucla.edu/Applets.dir/ChoiceOfTest.html).
+- Syntax for performing most basic statistical tests using [SPSS](http://stats.idre.ucla.edu/spss/whatstat/what-statistical-analysis-should-i-usestatistical-analyses-using-spss/), [R](http://stats.idre.ucla.edu/r/dae/), [Stata](http://stats.idre.ucla.edu/r/dae/), or [SAS](http://stats.idre.ucla.edu/r/dae/).
+- [How to effectively read and interpret output from Stata, SAS, SPSS, and Mplus](http://stats.idre.ucla.edu/other/annotatedoutput/)
 
 ---
 
