@@ -19,7 +19,8 @@
 
 #### Statistical Learning with R
 
-- [UCLA guide to classes on R as well as code, output, and examples of statistical analyses using R](http://stats.idre.ucla.edu/r/)
+- [UCLA guide to R code, output, and examples of statistical analyses using R](http://stats.idre.ucla.edu/r/)
+- Free UCLA seminars on R such as [Introduction to R](http://stats.idre.ucla.edu/r/seminars/intro/), [R Graphics: Introduction to GGPLOT2](http://stats.idre.ucla.edu/r/seminars/ggplot2_intro/), and [Repeated Measures Analysis with R](http://stats.idre.ucla.edu/r/seminars/repeated-measures-analysis-with-r/)
 - [R for statistical programming and data visualization](https://github.com/CSCAR/Resources/wiki/R)
 - An Introduction to Statistical Learning [Book pdf](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf) ^also a Machine Learning resource
 - Statistical Learning [Stanford / OpenEdX Course](https://class.stanford.edu/courses/HumanitiesScience/StatLearning/Winter2014/about)
