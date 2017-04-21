@@ -19,6 +19,7 @@
 
 #### Basic Statistics with R
 
+- [UCLA guide to classes on R as well as code, output, and examples of statistical analyses using R](http://stats.idre.ucla.edu/r/)
 - [R for statistical programming and data visualization](https://github.com/CSCAR/Resources/wiki/R)
 - An Introduction to Statistical Learning [Book pdf](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf) ^also a Machine Learning resource
  
