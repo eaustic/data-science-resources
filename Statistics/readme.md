@@ -3,6 +3,8 @@
 - [General statistics resources](https://github.com/CSCAR/Resources/wiki/Statistics)
 - [Various statistical procedures](https://github.com/m-clark/docs)
 - [Khan Academy Probability and Statistics - free, interactive video tutorials](https://www.khanacademy.org/math/statistics-probability)
+- [Probability and Statistics Free Ebook](http://wiki.socr.umich.edu/index.php/EBook)
+- [Statistics Online Computational Resource](http://www.socr.umich.edu/) - includes free instructional videos and data analysis tools
 
 ---
 
