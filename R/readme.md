@@ -1,6 +1,7 @@
 
 #### R
 
+- [Books Related to R](https://www.r-project.org/doc/bib/R-books.html)
 - [Swirl: learn R programming interactively](http://swirlstats.com/)
 - [R repository of code examples](http://www.uni-kiel.de/psychologie/rexrepos/) 
 - [Introduction to Data Science / Syracuse University - ebook focusing on R](http://jsresearch.net/index.html)
