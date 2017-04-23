@@ -12,4 +12,6 @@
 - [GitKraken](https://www.gitkraken.com/features) - provides a visual interface for branching and merging
 
 
+### Python Infographics
+
 - [Python vs R Infographic](http://pin.it/VfFHIPF)
