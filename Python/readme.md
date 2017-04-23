@@ -10,3 +10,6 @@
 
 - [Gitlab](https://gitlab.com) - open source, can port from Github to Gitlab, and creating private repositories does not require a subscription
 - [GitKraken](https://www.gitkraken.com/features) - provides a visual interface for branching and merging
+
+
+- [Python vs R Infographic](http://pin.it/VfFHIPF)
