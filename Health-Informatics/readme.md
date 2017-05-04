@@ -5,6 +5,10 @@
 
 ---
 
+### Free Online Courses on Health Informatics
+
+- [Udacity: Health Informatics in the Cloud, Georgia Institute of Technology](https://www.class-central.com/mooc/3288/udacity-health-informatics-in-the-cloud) 
+
 ### Health Informatics and Data Science Grants
 
 - [Data Science Grants](http://midas.umich.edu/grant-opportunities/)
