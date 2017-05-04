@@ -75,6 +75,7 @@
 #### R Video Tutorials and Online Courses
 
 - [edX: Introduction to R for Data Science, Microsoft](https://www.class-central.com/mooc/3928/edx-introduction-to-r-for-data-science) 
+- [edX: Programming with R for Data Science, Microsoft](https://www.class-central.com/mooc/6038/edx-programming-with-r-for-data-science)
 - [Learning R Youtube Channel](https://www.youtube.com/user/TheLearnR/featured)
 - [Video tutorial on R from Lynda.com](https://www.lynda.com/R-tutorials/R-Statistics-Essential-Training/142447-2.html).
 _Note: Lynda costs $20 - $35 a month for a subscription but many Colleges and Universities offer Lynda free to students, staff, and faculty_
