@@ -5,9 +5,9 @@
 - [Swirl: learn R programming interactively](http://swirlstats.com/)
 - [R repository of code examples](http://www.uni-kiel.de/psychologie/rexrepos/) 
 - [Introduction to Data Science / Syracuse University - ebook focusing on R](http://jsresearch.net/index.html)
-- [Learn R & Become a Data Analyst - Tutorial](https://www.datacamp.com/)
+- [Datacamp: Learn R & Become a Data Analyst - Tutorial](https://www.datacamp.com/)
 - [The R Project for Statistical Computing / Software](http://www.r-project.org/)
-- [Learn Data Science with R / Tutorials](https://www.datacamp.com/courses)
+- [Datacamp: Learn Data Science with R / Tutorials](https://www.datacamp.com/courses)
 - [Trouble-shooting with R and R Packages on Stackoverflow](http://stackoverflow.com/questions/tagged/r) 
 
 ---
