@@ -78,7 +78,8 @@
 - [Learning R Youtube Channel](https://www.youtube.com/user/TheLearnR/featured)
 - [Video tutorial on R from Lynda.com](https://www.lynda.com/R-tutorials/R-Statistics-Essential-Training/142447-2.html).
 _Note: Lynda costs $20 - $35 a month for a subscription but many Colleges and Universities offer Lynda free to students, staff, and faculty_
-- [Coursera: Introduction to Neurohacking](https://www.class-central.com/mooc/6420/coursera-introduction-to-neurohacking-in-r)
+- [Coursera: Introduction to Neurohacking, John Hopkins University](https://www.class-central.com/mooc/6420/coursera-introduction-to-neurohacking-in-r)
+- [Coursera: Advanced R Programming, John Hopkins University](https://www.class-central.com/mooc/7174/coursera-advanced-r-programming)
 
 ---
 
