@@ -1,5 +1,6 @@
 #### Data Mining Resources
 
+- [Data Mining: The Text Book, by Charu C. Aggarwal, 2015](http://www.charuaggarwal.net/Data-Mining.htm) 
 - [Coursera "Data Mining Specialization" - part of the specialization](https://www.coursera.org/specializations/data-mining)
 - [Data sets to practice data mining methods with](https://github.com/datasciencemasters/go/blob/master/datasets.md)
 
