@@ -6,7 +6,7 @@
 - [Google DeepMind](https://deepmind.com/) 
 - [IBM Watson Health](https://www.ibm.com/watson/health/)
 - [Open source alternatives to Watson](https://www.quora.com/What-are-alternatives-to-IBM-Watson)
-- An open source alternative to Amazon "Alexa", Google Home, Siri, and other "Speech and Vision Based Intelligent Personal Assistants" - [Lucida](https://github.com/claritylab/lucida)
+- An open source alternative to Amazon "Alexa", Google Home, Siri, and other "Speech and Vision Based Intelligent Personal Assistants" - [Lucida](http://lucida.ai/) - also checkout their GitHub site: (https://github.com/claritylab/lucida)
 
 ---
 
