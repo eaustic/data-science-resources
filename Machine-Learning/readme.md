@@ -61,8 +61,7 @@
 
 ### Machine Learning: Alternatives to ML
 
-* Some data scientists believe that [Probabilistic Computing](http://blog.probcomp.org/) will someday overtake and replace machine learning. It is based on a Naive Bayes approach. Vikash K. Mansinghka (an advisor to Google DeepMind) and his lab at MIT are beta-testing this approach. 
-**I heard a fascinating story about Dr. Mansinghka recently: there was a head-to-head competition at MIT between three experts: one in Probabilistic Computing expert (Dr. Mansinghka, I believe), one in machine learning, and one in statistics. They were given two problem sets - one with a known solution, and one with no known solution. The Probabilistic Computing expert arrived at two solutions within a few hours, which were deemed significantly better solutions than the ones the ML expert and statistician came up with after about a day and a half.
+* Some data scientists believe that [Probabilistic Computing](http://blog.probcomp.org/) will someday overtake and replace machine learning. It is based on a Naive Bayes approach. Vikash K. Mansinghka (an advisor to Google DeepMind) and his lab at MIT are beta-testing this approach. SIDE NOTE: I heard a fascinating story about Dr. Mansinghka recently: there was a head-to-head competition at MIT between three experts: one in Probabilistic Computing expert (Dr. Mansinghka), one in machine learning, and one in statistics. They were given two problem sets - one with a known solution, and one with no known solution. The Probabilistic Computing expert arrived at two solutions within a few hours, which were deemed significantly better solutions than the ones the ML expert and statistician came up with after about a day and a half.
 
 ---
 
