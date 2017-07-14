@@ -1,3 +1,5 @@
+# Becoming a Data Scientist
+
 ### Videos about becoming a data scientist
 
 - [The life of a data scientist / Josh Wills](https://www.youtube.com/watch?v=h9vQIPfe2uU)
