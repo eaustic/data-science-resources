@@ -55,3 +55,7 @@
 - [Why I Left My Data Science Master's Program](https://www.linkedin.com/pulse/why-i-left-my-masters-program-charles-pensig-1)
 - [MS Program, Bootcamp, or MOOCs?](http://www.kdnuggets.com/2014/08/becoming-data-scientist-ms-program-bootcamp-mooc.html)
 - [5 Things You Should Know Before Getting a Degree in Data Science](https://blog.stitchdata.com/5-things-you-should-know-before-getting-a-degree-in-data-science-40cddf44aac3)
+
+---
+
+_Also check out the PDFs posted in the "Becoming a Data Scientist" resources folder above_
