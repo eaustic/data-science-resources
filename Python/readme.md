@@ -1,3 +1,5 @@
+# Python
+
 ### Learning Python Programming for Data Science
 
 - [Best Python Learning Resources](https://github.com/CodementorIO/Python-Learning-Resources)
@@ -16,3 +18,5 @@
 ### Python Infographics
 
 - [Python vs R Infographic](http://pin.it/VfFHIPF)
+
+Also see Python cheatsheets in the Python resources folder above.
