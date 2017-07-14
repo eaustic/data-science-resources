@@ -64,6 +64,12 @@ Experimental design  /  Working with machine learning algorithms  / Feature e
 
 ---
 
+### Machine Learning: Alternatives to ML
+
+* Some data scientists believe that [Probabilistic Computing](http://blog.probcomp.org/) will someday overtake and replace machine learning. It is based on a Naive Bayes approach. Vikash K. Mansinghka (an advisor to Google DeepMind) and his lab at MIT is leading development in this area. I heard this fascinating story second-hand: there was recently a head-to-head competition at MIT between their foremost Probabilistic Computing expert (Dr. Mansinghka, I believe), ML expert, and Big-Data Statistician. They were given two problem sets - one with a known solution, and one with no known solution. The Probabilistic Computing expert arrived at two solutions within a few hours, which were deemed significantly better solutions than the ones the ML expert and statistician came up with after about a day and a half.
+
+---
+
 ### Machine Learning: Potential Tools Needed
 Python  /  Python libraries for linear algebra, plotting, machine learning: numpy, matplotlib, sk-learn  /  Github for submitting project code / MapReduce / Hadoop / MrJob / Spark / Spark Core / data frames / Spark Shell / Spark Streaming / Spark SQL / MLlib
 
