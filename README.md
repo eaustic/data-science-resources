@@ -1,6 +1,6 @@
 # Data Science Resources
 
-### These resources are intended for data scientists in training.
+### These resources are intended for data scientists in-training.
 
 ---
 
@@ -13,4 +13,5 @@
 
 ### About these resources
 
-- The emphasis will be on sharing free, open source, and [open science](http://openhardware.science/) learning resources accessible to a beginning- or intermediate-level data scientist in training. If a tutorial or book is only available by purchase or subscription, that will be noted - otherwise you may assume the resource is free and open source.
+- The aim of this repository is to share free, open source, and [open science](http://openhardware.science/) learning resources that may be helpful to beginning- and intermediate-level data scientist in-training. If a tutorial or book is only available by purchase or subscription, that will be noted - otherwise you may assume the resource is free and open source.
+- Feel free to share any of these resources.
