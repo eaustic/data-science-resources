@@ -19,4 +19,4 @@
 
 - [Python vs R Infographic](http://pin.it/VfFHIPF)
 
-Also see Python cheatsheets in the Python resources folder above.
+_Also see Python cheatsheets in the Python resources folder above._
