@@ -66,6 +66,8 @@
      SIDE NOTE: I heard a fascinating story recently related to this approach: there was a head-to-head competition at MIT between experts in three domains: one in Probabilistic Computing ( [Dr. Mansinghka](http://blog.probcomp.org/), an advisor to Google DeepMind), one in Machine Learning, and one in Statistics. They were given two problem sets - one with a known solution, and one with no known solution. The Probabilistic Computing expert provided both solutions after a few hours, which were deemed significantly better solutions than the ones the ML expert and statistician came up with after about a day and a half.
 
 * Article on the importance of taking a [human-centered approach to machine learning](https://medium.com/google-design/human-centered-machine-learning-a770d10562cd)
+* Here's a tool that helps to address the problem of not knowing your data well enough to implement ML "responsibly" - [Facets](https://pair-code.github.io/facets/?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_140)
+* [When NOT to use Deep Learning](http://hyperparameter.space/blog/when-not-to-use-deep-learning/?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_140)
 
 ---
 
