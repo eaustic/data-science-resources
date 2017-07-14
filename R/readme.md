@@ -1,5 +1,7 @@
 
-#### R
+# R
+
+### R
 
 - [Books Related to R](https://www.r-project.org/doc/bib/R-books.html)
 - [Swirl: learn R programming interactively](http://swirlstats.com/)
@@ -12,14 +14,14 @@
 
 ---
 
-#### Basic R
+### Basic R
 
  * R in a Nutshell [O'Reilly / Book ```$41```](http://amzn.to/1s54OBf)
  * Software Design: The Art of R Programming [O'Reilly / Book ```$23```](http://amzn.to/1mqzpWw)
 
 ---
 
-#### Statistical Learning with R
+### Statistical Learning with R
 
 - [UCLA guide to R code, output, and examples of statistical analyses using R](http://stats.idre.ucla.edu/r/)
 - Free UCLA seminars on R such as [Introduction to R](http://stats.idre.ucla.edu/r/seminars/intro/), [R Graphics: Introduction to GGPLOT2](http://stats.idre.ucla.edu/r/seminars/ggplot2_intro/), and [Repeated Measures Analysis with R](http://stats.idre.ucla.edu/r/seminars/repeated-measures-analysis-with-r/)
@@ -29,27 +31,27 @@
  
  ---
 
-#### Forecasting with R
+### Forecasting with R
 
  * Forecasting: Principles and Practice *(Regression, Time Series, Forecasting)* [Monash University / Book](http://otexts.com/fpp/)
 
 ---
 
-#### Visualization with R
+### Visualization with R
 
 - Viz and Elegant Graphics in R: ggplot2 [Springer / Book ```$65```](http://amzn.to/1fZMXVd)
 - [Shiny](http://shiny.rstudio.com/) Interactive web application framework for R
 
 ---
 
-#### Machine Learning with R
+### Machine Learning with R
 
  * Guide to Getting Started in Machine Learning [Tutorial](http://abeautifulwww.com/2009/10/11/guide-to-getting-started-in-machine-learning/)
  * Machine Learning in R [Tutorial](http://blog.revolutionanalytics.com/2009/09/machine-learning-in-r-in-a-nutshell.html)
 
 ---
 
-#### R Libraries
+### R Libraries
 
  * Natural Language Toolkit [OpenNLP](http://cran.r-project.org/web/packages/openNLP/index.html)
  * Text Mining [tm](http://cran.r-project.org/web/packages/tm/index.html)
@@ -60,19 +62,19 @@
 
 ---
 
-#### R Datasets
+### R Datasets
 
  * [Rdatasets](http://vincentarelbundock.github.io/Rdatasets/)
 
 ---
 
-#### R Blogs & Media
+### R Blogs & Media
 
  * [R-bloggers](http://www.r-bloggers.com/) R news and tutorials contributed by (452) R bloggers
  
  ---
 
-#### R Video Tutorials and Online Courses
+### R Video Tutorials and Online Courses
 
 - [edX: Introduction to R for Data Science, Microsoft](https://www.class-central.com/mooc/3928/edx-introduction-to-r-for-data-science) 
 - [edX: Programming with R for Data Science, Microsoft](https://www.class-central.com/mooc/6038/edx-programming-with-r-for-data-science)
@@ -84,7 +86,10 @@ _Note: Lynda costs $20 - $35 a month for a subscription but many Colleges and Un
 
 ---
 
-#### R version control for collaborative projcts: alternatives and additions to Github
+### R version control for collaborative projcts: alternatives and additions to Github
 - [Gitlab - open source, can port from Github to Gitlab, and creating private repositories does not require a subscription](https://gitlab.com)
 - [GitKraken - provides a visual interface for branching and merging](https://www.gitkraken.com/features)
 
+--- 
+
+_Check out the additional R resources posted as PDFs in the R resources folder above_
