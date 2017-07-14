@@ -63,7 +63,7 @@
 
 * Some data scientists believe that [Probabilistic Computing](http://blog.probcomp.org/) will someday overtake and replace machine learning because it is possible for data analysts with limited expertise in data science to quickly arrive at solutions that are easier to interpret. It is based on a Naive Bayes approach.
 
-     SIDE NOTE: I heard a fascinating story recently related to this approach: there was a head-to-head competition at MIT between three experts: one in Probabilistic Computing expert ( [Dr. Mansinghka](http://blog.probcomp.org/), an advisor to Google DeepMind), one in machine learning, and one in statistics. They were given two problem sets - one with a known solution, and one with no known solution. The Probabilistic Computing expert arrived at two solutions within a few hours, which were deemed significantly better solutions than the ones the ML expert and statistician came up with after about a day and a half.
+     SIDE NOTE: I heard a fascinating story recently related to this approach: there was a head-to-head competition at MIT between experts in three domains: one in Probabilistic Computing ( [Dr. Mansinghka](http://blog.probcomp.org/), an advisor to Google DeepMind), one in Machine Learning, and one in Statistics. They were given two problem sets - one with a known solution, and one with no known solution. The Probabilistic Computing expert arrived at two solutions within a few hours, which were deemed significantly better solutions than the ones the ML expert and statistician came up with after about a day and a half.
 
 ---
 
