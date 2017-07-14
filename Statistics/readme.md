@@ -16,7 +16,7 @@
 ## Scaling and Dimension Reduction
 
 - [Blog Post: Reducing Dimensionality from Dimensionality Reduction Techniques](https://medium.com/towards-data-science/reducing-dimensionality-from-dimensionality-reduction-techniques-f658aec24dfe)
-- [Scaling and Dimension Reduction course website](http://www.polisci.msu.edu/jacoby/icpsr/scaling/): includes a syllabus, handouts, and other resources posted by William G. Jacoby, a Political Science Professor at Michigan State University who is considered one of the foremost experts on these techniques.
+- [Scaling and Dimension Reduction course website](http://www.polisci.msu.edu/jacoby/icpsr/scaling/): includes a syllabus, [handouts](http://www.polisci.msu.edu/jacoby/icpsr/scaling/handouts/hlist.html), and other resources posted by William G. Jacoby, a Political Science Professor at Michigan State University who is considered one of the foremost experts on these techniques.
 
 ---
 
