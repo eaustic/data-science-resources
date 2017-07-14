@@ -1,3 +1,5 @@
+# Data Science 101 - Introduction to Data Science
+
 ### Introduction to Data Science: Courses and Course Materials
 - [The Open Source Data Science Masters Program](https://github.com/datasciencemasters/go). _Note: The outline for this masters program provides an excellent overview of skill sets needed in data science._
 - [UC Berkeley Data Science 100 Syllabus, Lectures, Resources](http://www.ds100.org/sp17/syllabus), and [This alternate UC Berkeley Data Science 100 offered by a different instructor](https://github.com/jdwilson4/Intro-Data-Science-2017)
