@@ -18,7 +18,7 @@ Exploratory data analysis  /  Effective written communication  /  Effective visu
 ### Infographics
 
 * [Inforgraphic on Data Visualization Tools](http://pin.it/Dc859EU)
-* [Recording of ACRL/ULS webinar themed ‘Infographics’ held on June 09, 2017](https://youtu.be/OFmZfMjHKLs) - Slides for the webinar are resources in the Visual-Display-of-Data folder
+* [Recording of ACRL/ULS webinar themed ‘Infographics’ held on June 09, 2017](https://youtu.be/OFmZfMjHKLs) - Slides for the webinar are resources in the Visual-Display-of-Data folder above
 
 ---
 
