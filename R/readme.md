@@ -92,4 +92,4 @@ _Note: Lynda costs $20 - $35 a month for a subscription but many Colleges and Un
 
 --- 
 
-_Check out the additional R resources posted as PDFs in the R resources folder above_
+_Also check out the PDFs posted in the "R" resources folder above_
