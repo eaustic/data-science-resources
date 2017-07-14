@@ -1,4 +1,6 @@
 
+#Ethics
+
 ## Ethical Considerations for Machine Learning and Deep Learning
 
 * Article on the importance of taking a [human-centered approach to machine learning](https://medium.com/google-design/human-centered-machine-learning-a770d10562cd)
