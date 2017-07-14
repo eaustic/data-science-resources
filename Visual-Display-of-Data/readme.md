@@ -1,3 +1,5 @@
+# Visual Display of Data
+
 ### Skills sets needed to visually display data
 
 Exploratory data analysis  /  Effective written communication  /  Effective visual presentation of data  /  Design for human perception
@@ -21,5 +23,7 @@ Exploratory data analysis  /  Effective written communication  /  Effective visu
 * [Recording of ACRL/ULS webinar themed ‘Infographics’ held on June 09, 2017](https://youtu.be/OFmZfMjHKLs) - Slides for the webinar are resources in the Visual-Display-of-Data folder above
 
 ---
+
+_Check out the PDFs posted in the Visual Display of Data resources folder above_
 
 
