@@ -1,6 +1,6 @@
 # Data Science Resources
 
-- These resources are intended for beginner- to intermediate-level data scientists in training.
+### These resources are intended for beginner- to intermediate-level data scientists in training.
 
 ---
 
