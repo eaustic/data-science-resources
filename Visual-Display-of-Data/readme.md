@@ -6,7 +6,7 @@ Exploratory data analysis  /  Effective written communication  /  Effective visu
 
 ### Potential tools needed to visually display data
 
-[ggplot](http://ggplot2.org/) /  ggplot2 for R  / [ggjoy](https://github.com/clauswilke/ggjoy/?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_140) / [plotly](http://help.plot.ly/) / [htmlwidgets for R](http://www.htmlwidgets.org/) / [Tableau - commerical software](https://www.tableau.com/)  /  Javascript  /  [D3](https://www.dashingd3js.com/table-of-contents)  /  Adobe Illustrator - commercial software /  [Highcharts](http://www.highcharts.com/)  /  [Visit](https://wci.llnl.gov/simulation/computer-codes/visit/)
+[ggplot2](http://ggplot2.org/) for R  / [ggjoy](https://github.com/clauswilke/ggjoy/?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_140) / [plotly](http://help.plot.ly/) / [htmlwidgets for R](http://www.htmlwidgets.org/) / [Tableau - commerical software](https://www.tableau.com/)  /  Javascript  /  [D3](https://www.dashingd3js.com/table-of-contents)  /  Adobe Illustrator - commercial software /  [Highcharts](http://www.highcharts.com/)  /  [Visit](https://wci.llnl.gov/simulation/computer-codes/visit/)
 
 ### Python visualization packages
 
