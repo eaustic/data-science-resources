@@ -28,4 +28,4 @@
 
 ---
 
-_Also see the additional statistics resources posted as PDFs in the Statistics resources folder above_
+_Also, check out the PDFs in the Statistics resources folder above_
