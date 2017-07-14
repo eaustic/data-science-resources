@@ -1,4 +1,6 @@
-#### Data Mining Resources
+# Data Mining
+
+### Data Mining Resources
 
 - [Data Mining: The Text Book, by Charu C. Aggarwal, 2015](http://www.charuaggarwal.net/Data-Mining.htm) 
 - [Coursera "Data Mining Specialization" - part of the specialization](https://www.coursera.org/specializations/data-mining)
@@ -6,7 +8,7 @@
 
 ---
 
-#### Web Scraping & Crawling
+### Web Scraping & Crawling
 
 * Introduction to WebAPIs including Twitter, Youtube, BitLy, Sunlight Foundation [CodeAcademy](http://www.codecademy.com/tracks/apis)
 * Twitter Analysis tools [ScraperWiki](https://scraperwiki.com/tools/twitter)
