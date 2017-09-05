@@ -63,7 +63,11 @@
 [Wikipedia Definition](http://en.wikipedia.org/wiki/Deep_learning)
 
 * Deep Learning [Tutorials](http://deeplearning.net/tutorial/)
-* Deep Learning Course [Stanford / OpenClassroom](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=DeepLearning)
+* Two Stanford Deep Learning Courses: 
+** [Stanford / OpenClassroom](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=DeepLearning) and 
+** [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/syllabus.html), a helpful course for building foundations which includes engaging lectures and illustrative problem sets. 
+* [Deeplearning.ai](https://www.deeplearning.ai/), Andrew Ng’s introductory deep learning course.
+* [Deep Learning Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap), a compilation of key books (with some PDFs available) and papers organized by chronology and research area within Deep Learning. 
 
 ---
 
