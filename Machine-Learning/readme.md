@@ -26,10 +26,11 @@
 
 ---
 
-### Machine Learning: Infographics on Pinterest
+### Machine Learning: Infographics and Mind Maps
 
 - [Machine learning tools by industry](http://pin.it/_XPhR2g) 
 - [The world of machine learning algorithms - a summary](http://pin.it/hAdOxl7)
+- [Machine learning mind maps by Daniel Martinez on GitHub](https://github.com/dformoso/machine-learning-mindmap/blob/master/Machine%20Learning.pdf)
 
 ---
 
