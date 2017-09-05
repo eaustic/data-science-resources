@@ -1,5 +1,10 @@
 # Machine Learning
 
+### Start Here: Introduction to Machine Learning
+- [Machine Learning "explained in plain English" with code examples](https://medium.com/machine-learning-for-humans/why-machine-learning-matters-6164faf1df12) - this includes a [nice curated list](https://medium.com/machine-learning-for-humans/how-to-learn-machine-learning-24d53bb64aa1) of additional resources for studying Machine Learning
+
+---
+
 ### Machine Learning: Tutorials and resources for hackers using Python and Github
 
 - [Introduction to Machine Learning Respository](https://github.com/m-clark/introduction-to-machine-learning)
